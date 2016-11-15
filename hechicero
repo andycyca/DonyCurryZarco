@@ -1,0 +1,43 @@
+{
+  "origin": [
+    "activaste mi hechizo \n\n#hechizo#"
+  ],
+  "hechizo": [
+    "#cosa# de #elemento# de #nombre#",
+    "#fenomeno# de #elemento#"
+  ],
+  "cosa": [
+    "rayo",
+    "proyectil",
+    "cono",
+    "toque",
+    "torbellino",
+    "puntapié",
+    "pellizco"
+  ],
+  "elemento": [
+    "fuego",
+    "agua",
+    "aire",
+    "electricidad",
+    "tierra",
+    "hielo",
+    "madera",
+    "luz",
+    "sombra",
+    "oscuridad",
+    "fuerza"
+  ],
+  "nombre": [
+    "Eleuterio",
+    "Justiniano",
+    "Hermenegildo",
+    "Proserpina"
+  ],
+  "fenomeno": [
+    "tormenta",
+    "viento",
+    "granizo",
+    "ventisca"
+  ]
+}
