@@ -1,0 +1,51 @@
+{
+  "origin": [
+    "#header# #body#",
+    "#body# #footer#"
+  ],
+  "header": [
+    "atención amiguitos",
+    "hola a todxs",
+    "guarden este tuit \n",
+    "la frase del día \n",
+    "como diría mi abuelita\n",
+    "↑↑↑\n"
+  ],
+  "body": [
+    "sigan a #coolness# para puro tuit chido",
+    "#sobreFavs#",
+    "#handles# es cool"
+  ],
+  "versus": [
+    "#alguien# dice que #alguien# es bien chido o chida",
+    "#alguien# versus Nega-#alguien# \n\ndiscutan en grupos de #numeros#",
+    "#alguien# maldice a #handles# con una maldición de... algo"
+  ],
+  "handles": [
+  "ejemplo"
+  ],
+  "coolness": [
+    "otro_ejemplo"
+  ],
+  "sobreFavs": [
+    "alguna vez favoriteé a #handles#",
+    "como esa vez que le di el fav a #handles# sin querer",
+    "una vez #handles# me cambió un fav por unos tazos",
+    "viste el tuit de #handles#? se pasó"
+  ],
+  "numeros": [
+    "uno",
+    "dos",
+    "tres",
+    "quince",
+    "veinte",
+    "cien"
+  ],
+  "footer":[
+    "'nuff said",
+    "...como lo dijo la profecía",
+    "pero eso no es de tu incumbencia",
+    "...bueno, eso creo",
+    "...o eso dicen"
+  ]
+}
